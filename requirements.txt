@@ -1,0 +1,2 @@
+CarryLessRangeCoder==1.0.2
+imageio==2.8.0
